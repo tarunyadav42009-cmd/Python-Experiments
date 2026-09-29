@@ -165,4 +165,3 @@ if __name__ == "__main__":
     print("Generating 15,000 cosmic stars aligned to Golden Ratio (\u03a6)...")
     x, y, colors = generate_golden_galaxy()
     plot_galaxy(x, y, colors)
-
